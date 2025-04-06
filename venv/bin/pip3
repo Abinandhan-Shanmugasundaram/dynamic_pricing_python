@@ -1,4 +1,4 @@
-#!/Users/AbinandhanS/Desktop/dynamic_pricing_api/venv/bin/python3
+#!/Users/AbinandhanS/Downloads/dynamic_pricing_api/venv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
